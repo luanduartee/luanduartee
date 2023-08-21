@@ -26,11 +26,3 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=luanduartee&show_icons=true&theme=dracula"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanduartee&layout=donut&theme=dracula"/>
 </div>
-
-### Meus Repositórios Principais
-
-<div>
-  <a href="https://github.com/luanduartee">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=luanduartee&repo=2023.1-FamilyMusicSystem&theme=dracula"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=luanduartee&repo=Spotify-HomePage&theme=dracula"/>
-</div>
