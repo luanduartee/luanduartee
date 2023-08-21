@@ -21,11 +21,16 @@
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
 ### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LUANDUARTEE&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LUANDUARTEE&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+<div>
+  <a href="https://github.com/luanduartee">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=luanduartee&show_icons=true&theme=dracula"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanduartee&layout=donut&theme=dracula"/>
+</div>
 
 ### Meus Repositórios Principais
 
-[![Family Music System](https://github-readme-stats.vercel.app/api/pin/?username=luanduartee&repo=2023.1-FamilyMusicSystem&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/luanduartee/2023.1-FamilyMusicSystem)
-[![Repo DIO Roadmaps](https://github-readme-stats.vercel.app/api/pin/?username=luanduartee&repo=Spotify-HomePage&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/luanduartee/Spotify-HomePage)
+<div>
+  <a href="https://github.com/luanduartee">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=luanduartee&repo=2023.1-FamilyMusicSystem&theme=dracula"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=luanduartee&repo=Spotify-HomePage&theme=dracula"/>
+</div>
